@@ -16,10 +16,10 @@ Passionate about web development and building cool stuff on the internet.
   ###  Languages  
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust&theme=dark" />
 
-  ### ⚙ Frameworks  
+  ###  Frameworks  
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&theme=dark" />
 
-  ### 🛢 Databases & ORM  
+  ###  Databases & ORM  
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,supabase&theme=dark" />
 
   ###  Tools  
