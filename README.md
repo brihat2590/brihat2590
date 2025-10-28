@@ -4,7 +4,7 @@ Welcome to my GitHub!
 ---
 
 ### 🌟 About Me  
-3rd year CSE student at Jain University, originally from Nepal 🇳🇵.  
+3rd year CSE student at Jain University,  
 Passionate about web development and building cool stuff on the internet.
 
 ---
