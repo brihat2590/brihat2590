@@ -1,57 +1,59 @@
-# 🚀 Hello, I'm Brihat  
-Welcome to my GitHub!
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&vCenter=true&width=520&lines=Hi,+I'm+Brihat;Welcome;"
+  alt="Typing SVG"
+/>
+
+
+
+**Computer Science & Engineering Student | Jain University**
+
+Focused on scalable web applications, with strong fundamentals in web development,<br> data structures, and system design, specializing in the TypeScript ecosystem.
 
 ---
 
-### 🌟 About Me  
-3rd year CSE student at Jain University,  
-Passionate about web development and building cool stuff on the internet.
+## 🛠️ Technical Stack
 
----
-
-### 🛠️ Skills
-
-<div align="">
-
-  ###  Languages  
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust&theme=dark" />
-
-  ###  Frameworks  
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&theme=dark" />
-
-  ###  Databases & ORM  
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,supabase&theme=dark" />
-
-  ###  Tools  
-  <img src="https://skillicons.dev/icons?i=docker,firebase,postman,vercel&theme=dark" />
-
+### Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
 
+### Frontend
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
 
+### Backend & Databases
+<div align="left">
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.dot.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+### Tool & Workflows
+<div align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 ---
 
-### 📫 Connect with Me
+## 🌐 Connect With Me
 
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brihatbir-thapa-8b00b7286/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/thapa_brihat)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/brihat2590)
-
----
-
-
-💌 Always open to collaborating on exciting projects <br>
-🌟 Feel free to explore my repositories and don't forget to star if you find something interesting!
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brihat2590&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brihat2590&layout=compact)
-
----
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brihatbir-thapa-8b00b7286/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thapa_brihat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23btrcn089@jainuniversity.ac.in)
