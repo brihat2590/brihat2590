@@ -11,7 +11,7 @@ Focused on scalable web applications, with strong fundamentals in web developmen
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Languages
 <div align="left">
@@ -39,6 +39,7 @@ Focused on scalable web applications, with strong fundamentals in web developmen
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </div>
 
 ### Tool & Workflows
@@ -48,6 +49,8 @@ Focused on scalable web applications, with strong fundamentals in web developmen
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  
 </div>
 
 ---
